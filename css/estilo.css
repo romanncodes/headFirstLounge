@@ -1,0 +1,27 @@
+body {
+  font-family: arial;
+  font-size: 18px;
+  background: linear-gradient(to left, #ffeb3b, #fff59d);
+  text-align: justify;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #03a9f4;
+}
+
+h1,
+h2 {
+  text-shadow: 3px 3px 8px grey;
+}
+
+.color_plomo {
+  color: grey;
+}
+
+.logo {
+  transform: rotate(-10deg);
+}
